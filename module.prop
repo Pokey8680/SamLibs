@@ -1,0 +1,6 @@
+id=samlibs
+name=SamLibs
+version=v2024.12.03
+versionCode=1
+author=Pokey8680
+description=Install Samsung's proprietary frameworks on AOSP
